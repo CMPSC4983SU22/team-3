@@ -5,28 +5,25 @@ body {
   text-align: center;
   font-family: 'Orbitron', sans-serif;
 }
-
-h2 {
-
-  font-size: 250%;
-  /*1em=16px, 100%=16px px is not inherited rem is root em and not inherited*/
-  line-height: 2;
-  margin: -90px auto 0 auto;
-  font-family: 'Orbitron', sans-serif;
-  color: #333333;
-  text-align: center;
-}
 h3 {
   font-family: 'Orbitron', sans-serif;;
   color: #DD3810;
   text-align: left;
-
 }
 .logo{
-  width: 10%;
-  max-width: 10%;
-  position: relative;
-  top: 40px;
+  width:auto;
+  height: 115px;
+  display: inline-block;
+  margin-top: 12.5px;
+  margin-right: 5px;
+}
+.banner{
+  display: inline-block;
+  font-size: 250%;
+  font-family: 'Orbitron', sans-serif;
+  color: #333333;
+  text-align: center;
+  vertical-align: text-bottom;
 }
 .ECUmap{
   width: 55%;
@@ -109,8 +106,7 @@ hr{
 .top {
   background-color: #DD3810;
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 60px;
+  height: 140px;
 }
 
 .middle {

@@ -4,6 +4,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Orbitron', sans-serif;
+  overflow-x: hidden;
 }
 h3 {
   font-family: 'Orbitron', sans-serif;;
@@ -68,7 +69,7 @@ hr{
 @media screen and (max-width: 600px) {
   .topnav .wrapper {
     float: left;
-    width: 90%;
+    width: 88%;
 
   }
     .ECUmap {

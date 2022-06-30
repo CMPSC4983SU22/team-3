@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ECU Campus Map</title>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="icon" href="favicon.png">
 </head>
 
@@ -15,15 +16,20 @@
 
   <div class="topnav">
   <a class="" href=""><img class="nav-logo" src="images\eculogo.png" alt="logo"></a>
-  <a href="#locations" href="">Location</a>
-  <a href="#parking" href="">Parking</a>
-  <div class="search-container">
-    <form action="/action_page.php">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit">Submit</button>
-    </form>
+  <a href="#locations" class="locpar" href="">Location</a>
+  <a href="#parking" class="locpar" href="">Parking</a>
+
+    <div class="wrapper">
+      <input type="text" name="search" id="search" placeholder="Search..." autocomplete="chrome-off">
+
+      <div class="results">
+        <ul>
+        </ul>
+      </div>
+    </div>
   </div>
-</div>
+<script src="js/script.js"></script>
+<script src="js/suggestions.js"></script>
 
   <div class="top">
     <img class="logo" src="images\eculogo.png" alt="logo"><h2 class="banner"> Campus Map</h2>
@@ -33,10 +39,10 @@
 
   <ol class =  "Location">
   <h3>CAMPUS BUILDING</h3>
-  <li><a class="map-link" href="">Bill S. Cole University Center (UCTR) E5</a></li>
+  <li><a class="map-link" href="https://goo.gl/maps/pkKuBnLsSnFtCTgD8">Bill S. Cole University Center (UCTR) E5</a></li>
   <li><a class="map-link" href="">Boswell Chapel E6</a></li>
   <li><a class="map-link" href="">Administration Building D5</a></li>
-  <li><a class="map-link" href="">Chickasaw Business & Conference Center (CBCC) B3</a></li>
+  <li><a class="map-link" href="https://goo.gl/maps/6BXXd3MzgkUZGXU57">Chickasaw Business & Conference Center (CBCC) B3</a></li>
   <li><a class="map-link" href="">Danley Hall (DANL) C5</a></li>
   <li><a class="map-link" href="">Dr. Raniyah Ramadan Center for Undergraduate Research & Learning D6</a></li>
   <li><a class="map-link" href="">ECU Bookstore F6</a></li>

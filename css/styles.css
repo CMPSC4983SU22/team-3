@@ -6,11 +6,19 @@ body {
   font-family: 'Orbitron', sans-serif;
   overflow-x: hidden;
 }
+.pic{
+  width: 48%;
+  margin: 0 10px 50px auto ;
+  float: right;
+  border-style: solid;
+  border-color: black;
+}
 h3 {
   font-family: 'Orbitron', sans-serif;;
   color: #DD3810;
   text-align: left;
 }
+
 .logo{
   width:auto;
   height: 115px;
@@ -79,6 +87,13 @@ hr{
     margin-bottom: 25px;
     float: none;
   }
+  .pic{
+    width: 90%;
+    display: block; /* Stops it from floating */
+    margin: auto; /* Ensures that it is centered */
+    margin-bottom: 25px;
+    float: none;
+  }
   .wrapper input, .topnav, .locpar{
     float: none;
     display: block;
@@ -101,15 +116,13 @@ hr{
 }
 
 .middle {
-  margin:100px 0;
+  margin:80px 0;
   background-color: #F2F2F2;
 
 }
 
  .bottom{
   background-color: #333333;
-
-
   overflow: hidden;
 
 
@@ -179,4 +192,20 @@ input:focus {
 
 .results ul li:hover {
   background-color: #EEEEEE;
+}
+
+.heading{
+  font-family: 'Orbitron', sans-serif;;
+  color: #333333;
+  text-align: left;
+}
+.info{
+  font-family: 'Orbitron', sans-serif;;
+  color: #666666;
+  text-align: left;
+}
+.address{
+  font-family: 'Orbitron', sans-serif;;
+  color: #666666;
+  text-align: left;
 }

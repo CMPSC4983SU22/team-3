@@ -13,9 +13,22 @@ body {
   border-style: solid;
   border-color: black;
 }
-h3 {
+h2{
   font-family: 'Orbitron', sans-serif;;
   color: #DD3810;
+  text-align: left;
+}
+h3{
+  font-family: 'Orbitron', sans-serif;;
+  color: #DD3810;
+  text-align: left;
+}
+h4{
+  font-family: 'Orbitron', sans-serif;
+  text-align: left;
+}
+h5{
+  font-family: 'Orbitron', sans-serif;
   text-align: left;
 }
 

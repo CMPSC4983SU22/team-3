@@ -5,6 +5,10 @@ body {
   text-align: center;
   font-family: 'Orbitron', sans-serif;
   overflow-x: hidden;
+  width: 100%;
+}
+ol{
+  font-size: 16px;
 }
 .pic{
   width: 48%;
@@ -35,6 +39,7 @@ h3 {
   vertical-align: text-bottom;
 }
 .ECUmap{
+  margin: 80px 10px 80px auto;
   width: 55%;
   border-style: solid;
   border-color: black;
@@ -73,6 +78,12 @@ hr{
 }
 
 
+@media screen and (min-width: 3000px) {
+ol{
+  font-size: 32px;
+  margin-left: 40px;
+}
+}
 
 @media screen and (max-width: 600px) {
   .topnav .wrapper {
@@ -85,6 +96,7 @@ hr{
     display: block; /* Stops it from floating */
     margin: auto; /* Ensures that it is centered */
     margin-bottom: 25px;
+    margin-top: 25px;
     float: none;
   }
   .pic{
@@ -119,14 +131,13 @@ hr{
   margin:80px 0;
   background-color: #F2F2F2;
 
+  width: 100%;
 }
 
  .bottom{
   background-color: #333333;
   overflow: hidden;
-
-
-  /* position:fixed;bottom:0px;left:0;right:0;height:30%; */
+  width:100%;
 }
 
 .Location{

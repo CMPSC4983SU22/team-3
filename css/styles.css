@@ -154,6 +154,13 @@ ol{
 .map-link:hover{
   color: #DD3810;
 }
+.ecok-link{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.ecok-link:hover{
+  color: #DD3810;
+}
 
 .wrapper {
   margin: 2px 5px 2px auto;

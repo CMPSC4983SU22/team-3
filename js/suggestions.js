@@ -1,5 +1,5 @@
 let searchable = [
-  '<a class="map-link" href="https://goo.gl/maps/pkKuBnLsSnFtCTgD8">Bill S. Cole University Center (UCTR) E5</a>',
+  '<a class="map-link" href="uc.html">Bill S. Cole University Center (UCTR) E5</a>',
   '<a class="map-link" href="">Boswell Chapel E6</a>',
   '<a class="map-link" href="">Administration Building D5</a>',
   '<a class="map-link" href="cbcc.html">Chickasaw Business & Conference Center (CBCC) B3</a>',

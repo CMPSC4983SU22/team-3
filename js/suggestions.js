@@ -3,7 +3,7 @@ let searchable = [
   '<a class="map-link" href="">Boswell Chapel E6</a>',
   '<a class="map-link" href="">Administration Building D5</a>',
   '<a class="map-link" href="cbcc.html">Chickasaw Business & Conference Center (CBCC) B3</a>',
-  '<a class="map-link" href="">Danley Hall (DANL) C5</a>',
+  '<a class="map-link" href="danley.html">Danley Hall (DANL) C5</a>',
   '<a class="map-link" href="">Dr. Raniyah Ramadan Center for Undergraduate Research & Learning D6</a>',
   '<a class="map-link" href="">ECU Bookstore F6</a>',
   '<a class="map-link" href="">ECU Police B3</a>',

@@ -28,7 +28,6 @@ h3 {
 
 .logo{
   width:auto;
-  float: left;
   height: 115px;
   display: inline-block;
   margin-top: 12.5px;
@@ -123,6 +122,9 @@ ol{
     float: none;
     display: block;
     max-width: 2rem;
+  }
+  .info{
+   margin-right: 10px; 
   }
 }
 .top {

@@ -28,6 +28,7 @@ h3 {
 
 .logo{
   width:auto;
+  float: left;
   height: 115px;
   display: inline-block;
   margin-top: 12.5px;

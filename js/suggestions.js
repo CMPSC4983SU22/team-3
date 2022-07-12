@@ -10,7 +10,7 @@ let searchable = [
   '<a class="map-link" href="">Faust Hall (FAUS) D4</a>',
   '<a class="map-link" href="">Fentem Hall (FENT) B6</a>',
   '<a class="map-link" href="">Hallie Brown Ford Fine Arts Center (FFAC) B4</a>',
-  '<a class="map-link" href="">Horace Mann (HOMN) C4</a>',
+  '<a class="map-link" href="horace.html">Horace Mann (HOMN) C4</a>',
   '<a class="map-link" href="">Kinesiology Building (KIN) F6</a>',
   '<a class="map-link" href="">Lanoy Education Building (EDUC) D6</a>',
   '<a class="map-link" href="">Linscheid Library & Annex (LLIB) D6</a>',

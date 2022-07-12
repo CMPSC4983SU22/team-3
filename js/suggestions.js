@@ -7,7 +7,7 @@ let searchable = [
   '<a class="map-link" href="">Dr. Raniyah Ramadan Center for Undergraduate Research & Learning D6</a>',
   '<a class="map-link" href="bookstore.html">ECU Bookstore F6</a>',
   '<a class="map-link" href="ecupolice.html">ECU Police B3</a>',
-  '<a class="map-link" href="">Faust Hall (FAUS) D4</a>',
+  '<a class="map-link" href="faust.html">Faust Hall (FAUS) D4</a>',
   '<a class="map-link" href="">Fentem Hall (FENT) B6</a>',
   '<a class="map-link" href="">Hallie Brown Ford Fine Arts Center (FFAC) B4</a>',
   '<a class="map-link" href="horace.html">Horace Mann (HOMN) C4</a>',

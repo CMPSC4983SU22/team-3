@@ -126,6 +126,12 @@ ol{
   .info{
    margin-right: 10px; 
   }
+  .top {
+  background-color: #DD3810;
+  position: relative;
+  height: 140px;
+  width:100%;
+}
 }
 .top {
   background-color: #DD3810;
